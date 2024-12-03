@@ -1,0 +1,1 @@
+/root/ghost_ws/build/ghost_slam_msgs/rosidl_generator_c/ghost_slam_msgs/msg/detail/multi_array_layout__struct.h

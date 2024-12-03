@@ -1,0 +1,1 @@
+/root/ghost_ws/build/ghost_bms_interfaces/rosidl_generator_py/ghost_bms_interfaces/_ghost_bms_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c

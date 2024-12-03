@@ -1,0 +1,1 @@
+/root/ghost_ws/build/hdl_localization/rosidl_generator_c/hdl_localization/msg/rosidl_generator_c__visibility_control.h

@@ -1,0 +1,1 @@
+/root/ghost_ws/build/ghost_manager_interfaces/rosidl_typesupport_introspection_c/ghost_manager_interfaces/srv/detail/set_param__rosidl_typesupport_introspection_c.h

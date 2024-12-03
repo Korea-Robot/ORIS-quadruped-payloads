@@ -1,0 +1,1 @@
+/root/ghost_ws/src/krm_auto/3rdparty/krm_nav2/nav2_dwb_controller/nav_2d_msgs/msg/Twist2D32.msg

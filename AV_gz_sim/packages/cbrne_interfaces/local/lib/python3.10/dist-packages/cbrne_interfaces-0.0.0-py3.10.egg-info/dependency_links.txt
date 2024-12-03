@@ -1,0 +1,1 @@
+/root/ghost_ws/build/cbrne_interfaces/ament_cmake_python/cbrne_interfaces/cbrne_interfaces.egg-info/dependency_links.txt

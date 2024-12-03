@@ -1,0 +1,1 @@
+/root/ghost_ws/build/hdl_global_localization/rosidl_cmake/rosidl_cmake-extras.cmake

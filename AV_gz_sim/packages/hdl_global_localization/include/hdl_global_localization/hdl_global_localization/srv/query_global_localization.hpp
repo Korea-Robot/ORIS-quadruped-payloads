@@ -1,0 +1,1 @@
+/root/ghost_ws/build/hdl_global_localization/rosidl_generator_cpp/hdl_global_localization/srv/query_global_localization.hpp

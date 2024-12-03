@@ -1,0 +1,14 @@
+source;ros_domain_id.txt
+source;share/mission_interfaces/hook/cmake_prefix_path.ps1
+source;share/mission_interfaces/hook/cmake_prefix_path.dsv
+source;share/mission_interfaces/hook/cmake_prefix_path.sh
+source;ros_domain_id.txt
+source;share/mission_interfaces/hook/ld_library_path_lib.ps1
+source;share/mission_interfaces/hook/ld_library_path_lib.dsv
+source;share/mission_interfaces/hook/ld_library_path_lib.sh
+source;share/mission_interfaces/local_setup.bash
+source;share/mission_interfaces/local_setup.dsv
+source;share/mission_interfaces/local_setup.ps1
+source;share/mission_interfaces/local_setup.sh
+source;share/mission_interfaces/local_setup.spawn_bash_shell
+source;share/mission_interfaces/local_setup.zsh

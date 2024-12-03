@@ -1,0 +1,1 @@
+/root/ghost_ws/build/darknet_ros_interfaces/rosidl_generator_c/darknet_ros_interfaces/msg/rosidl_generator_c__visibility_control.h

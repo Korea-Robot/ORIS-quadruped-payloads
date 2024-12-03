@@ -1,0 +1,1 @@
+/root/ghost_ws/build/cbrne_interfaces/rosidl_typesupport_introspection_c/cbrne_interfaces/msg/detail/validated_float32__rosidl_typesupport_introspection_c.h

@@ -1,0 +1,1 @@
+/root/ghost_ws/src/krm_auto/krm_auto_cartographer/launch/cartographer_slam_gazebo.launch.py

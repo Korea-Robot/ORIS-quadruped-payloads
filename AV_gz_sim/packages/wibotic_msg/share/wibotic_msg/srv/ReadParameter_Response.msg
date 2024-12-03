@@ -1,0 +1,1 @@
+/root/ghost_ws/build/wibotic_msg/rosidl_cmake/srv/ReadParameter_Response.msg

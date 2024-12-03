@@ -1,0 +1,1 @@
+/root/ghost_ws/build/draper_msgs/ament_cmake_python/draper_msgs/draper_msgs.egg-info/SOURCES.txt

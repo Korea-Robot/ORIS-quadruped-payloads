@@ -1,0 +1,1 @@
+/root/ghost_ws/src/ghost_custom_msgs/ghost_slam_msgs/msg/CloudInfo.msg

@@ -1,0 +1,1 @@
+/root/ghost_ws/build/wibotic_msg/rosidl_cmake/srv/SaveParameters_Request.msg

@@ -1,0 +1,1 @@
+/root/ghost_ws/src/krm_auto/krm_auto_localization/launch/hdl_localization.launch.py

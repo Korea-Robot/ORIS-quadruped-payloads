@@ -1,0 +1,1 @@
+/root/ghost_ws/build/draper_msgs/rosidl_generator_py/draper_msgs/_draper_msgs_s.ep.rosidl_typesupport_c.c

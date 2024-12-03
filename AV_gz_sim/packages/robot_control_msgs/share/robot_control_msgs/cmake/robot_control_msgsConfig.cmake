@@ -1,0 +1,1 @@
+/root/ghost_ws/build/robot_control_msgs/ament_cmake_core/robot_control_msgsConfig.cmake

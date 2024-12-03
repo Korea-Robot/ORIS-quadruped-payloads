@@ -1,0 +1,1 @@
+/root/ghost_ws/build/krm_exploration_interfaces/rosidl_cmake/srv/SaveMap_Response.msg

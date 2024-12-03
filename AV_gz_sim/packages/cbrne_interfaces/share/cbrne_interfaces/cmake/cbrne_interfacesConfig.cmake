@@ -1,0 +1,1 @@
+/root/ghost_ws/build/cbrne_interfaces/ament_cmake_core/cbrne_interfacesConfig.cmake

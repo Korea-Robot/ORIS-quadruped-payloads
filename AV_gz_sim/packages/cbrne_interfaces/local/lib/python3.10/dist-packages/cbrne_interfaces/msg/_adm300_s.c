@@ -1,0 +1,1 @@
+/root/ghost_ws/build/cbrne_interfaces/rosidl_generator_py/cbrne_interfaces/msg/_adm300_s.c

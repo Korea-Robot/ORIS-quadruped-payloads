@@ -1,0 +1,1 @@
+/root/ghost_ws/build/skydio_dock_interfaces/rosidl_typesupport_fastrtps_cpp/skydio_dock_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h

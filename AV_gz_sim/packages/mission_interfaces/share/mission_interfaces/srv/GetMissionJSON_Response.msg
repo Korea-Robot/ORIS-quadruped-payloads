@@ -1,0 +1,1 @@
+/root/ghost_ws/build/mission_interfaces/rosidl_cmake/srv/GetMissionJSON_Response.msg

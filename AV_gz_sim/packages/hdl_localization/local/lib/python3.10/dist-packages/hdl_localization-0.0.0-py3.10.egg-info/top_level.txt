@@ -1,0 +1,1 @@
+/root/ghost_ws/build/hdl_localization/ament_cmake_python/hdl_localization/hdl_localization.egg-info/top_level.txt

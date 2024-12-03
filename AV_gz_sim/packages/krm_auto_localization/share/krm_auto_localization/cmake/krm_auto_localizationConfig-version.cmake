@@ -1,0 +1,1 @@
+/root/ghost_ws/build/krm_auto_localization/ament_cmake_core/krm_auto_localizationConfig-version.cmake

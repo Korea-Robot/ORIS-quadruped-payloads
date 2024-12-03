@@ -1,0 +1,1 @@
+/root/ghost_ws/src/krm_auto/3rdparty/krm_nav2/nav2_bringup/launch/cloned_multi_tb3_simulation_launch.py

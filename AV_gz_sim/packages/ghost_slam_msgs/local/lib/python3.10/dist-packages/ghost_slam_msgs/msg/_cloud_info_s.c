@@ -1,0 +1,1 @@
+/root/ghost_ws/build/ghost_slam_msgs/rosidl_generator_py/ghost_slam_msgs/msg/_cloud_info_s.c

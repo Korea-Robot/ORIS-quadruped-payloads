@@ -1,0 +1,1 @@
+/root/ghost_ws/build/nav2_simple_commander/launch/assisted_teleop_example_launch.py

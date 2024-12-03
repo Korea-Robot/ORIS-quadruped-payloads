@@ -1,0 +1,25 @@
+session_name: krm_auto_simulator launch
+
+environment:
+  MISSION_NAME: krm_auto_simulator
+options:
+  default-command: /bin/bash
+
+windows:
+- window_name: dev window 
+  focus: true
+  layout: tiled
+  shell_command_before:
+    - export DATE=$(date "+%Y-%m-%d_%H-%M-%S")
+  panes:
+    - shell_command: # 1. mobile robot gazebo simulation launch
+      - ros2 launch krm_auto_description krm_auto_gazebo.launch.py 
+    - shell_command: # 2. mobile robot control 
+      - ros2 run krm_auto_bringup cmd_vel_republisher
+    - shell_command: # 3. mobile robot heart beat publisher
+      - ros2 run krm_auto_bringup heartbeat_publisher 
+    - shell_command: # 4. mobile robot state heartbeat echo
+      - ros2 topic echo /state/heartbeat | egrep 'control_mode|action' 
+    - shell_command: # 5. mobile robot teleop
+      - ros2 run krm_auto_teleop krm_auto_teleop
+

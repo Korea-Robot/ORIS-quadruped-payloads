@@ -1,0 +1,1 @@
+/root/ghost_ws/build/ros2_mscl_interfaces/ament_cmake_python/ros2_mscl_interfaces/ros2_mscl_interfaces.egg-info/SOURCES.txt

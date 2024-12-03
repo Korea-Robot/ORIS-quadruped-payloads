@@ -1,0 +1,1 @@
+/root/ghost_ws/build/krm_interfaces/rosidl_generator_c/krm_interfaces/srv/detail/map__type_support.h

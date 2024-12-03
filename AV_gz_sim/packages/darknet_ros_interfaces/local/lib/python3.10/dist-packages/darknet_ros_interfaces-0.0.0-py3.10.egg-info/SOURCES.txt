@@ -1,0 +1,1 @@
+/root/ghost_ws/build/darknet_ros_interfaces/ament_cmake_python/darknet_ros_interfaces/darknet_ros_interfaces.egg-info/SOURCES.txt

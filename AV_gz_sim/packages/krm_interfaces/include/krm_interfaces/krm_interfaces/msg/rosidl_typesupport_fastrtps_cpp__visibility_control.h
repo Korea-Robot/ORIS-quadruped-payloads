@@ -1,0 +1,1 @@
+/root/ghost_ws/build/krm_interfaces/rosidl_typesupport_fastrtps_cpp/krm_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h

@@ -1,0 +1,1 @@
+/root/ghost_ws/build/krm_interfaces/rosidl_generator_cpp/krm_interfaces/srv/detail/map__traits.hpp

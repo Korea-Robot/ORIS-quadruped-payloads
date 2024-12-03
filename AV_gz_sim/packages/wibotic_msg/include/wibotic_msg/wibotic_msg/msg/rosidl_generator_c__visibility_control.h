@@ -1,0 +1,1 @@
+/root/ghost_ws/build/wibotic_msg/rosidl_generator_c/wibotic_msg/msg/rosidl_generator_c__visibility_control.h

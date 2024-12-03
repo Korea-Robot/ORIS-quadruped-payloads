@@ -1,0 +1,1 @@
+/root/ghost_ws/build/hdl_localization/rosidl_generator_py/hdl_localization/_hdl_localization_s.ep.rosidl_typesupport_fastrtps_c.c

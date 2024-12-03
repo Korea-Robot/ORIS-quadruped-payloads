@@ -1,0 +1,1 @@
+/root/ghost_ws/build/krm_interfaces/rosidl_typesupport_fastrtps_c/krm_interfaces/srv/detail/map__rosidl_typesupport_fastrtps_c.h

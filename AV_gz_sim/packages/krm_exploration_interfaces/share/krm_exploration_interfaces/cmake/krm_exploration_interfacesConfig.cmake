@@ -1,0 +1,1 @@
+/root/ghost_ws/build/krm_exploration_interfaces/ament_cmake_core/krm_exploration_interfacesConfig.cmake

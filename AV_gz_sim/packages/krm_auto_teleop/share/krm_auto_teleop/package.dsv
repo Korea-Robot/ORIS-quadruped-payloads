@@ -1,0 +1,12 @@
+source;ros_domain_id.txt
+source;share/krm_auto_teleop/hook/pythonpath.ps1
+source;share/krm_auto_teleop/hook/pythonpath.dsv
+source;share/krm_auto_teleop/hook/pythonpath.sh
+source;ros_domain_id.txt
+source;share/krm_auto_teleop/hook/ament_prefix_path.ps1
+source;share/krm_auto_teleop/hook/ament_prefix_path.dsv
+source;share/krm_auto_teleop/hook/ament_prefix_path.sh
+source;ros_domain_id.txt
+source;../../build/krm_auto_teleop/share/krm_auto_teleop/hook/pythonpath_develop.ps1
+source;../../build/krm_auto_teleop/share/krm_auto_teleop/hook/pythonpath_develop.dsv
+source;../../build/krm_auto_teleop/share/krm_auto_teleop/hook/pythonpath_develop.sh

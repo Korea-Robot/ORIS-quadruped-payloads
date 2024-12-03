@@ -1,0 +1,1 @@
+/root/ghost_ws/src/krm_auto/krm_auto_description/launch/krm_auto_description.launch.py

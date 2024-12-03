@@ -1,0 +1,1 @@
+/root/ghost_ws/src/ghost_custom_msgs/cbrne_interfaces/msg/ThreatDescription.msg

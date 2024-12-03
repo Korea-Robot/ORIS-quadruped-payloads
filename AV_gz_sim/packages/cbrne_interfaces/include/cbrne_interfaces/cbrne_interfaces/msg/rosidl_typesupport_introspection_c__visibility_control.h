@@ -1,0 +1,1 @@
+/root/ghost_ws/build/cbrne_interfaces/rosidl_typesupport_introspection_c/cbrne_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h

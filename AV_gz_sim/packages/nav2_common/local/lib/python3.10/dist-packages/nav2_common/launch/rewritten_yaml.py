@@ -1,0 +1,1 @@
+/root/ghost_ws/src/krm_auto/3rdparty/krm_nav2/nav2_common/nav2_common/launch/rewritten_yaml.py

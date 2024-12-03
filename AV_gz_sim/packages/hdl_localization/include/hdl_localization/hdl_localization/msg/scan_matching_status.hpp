@@ -1,0 +1,1 @@
+/root/ghost_ws/build/hdl_localization/rosidl_generator_cpp/hdl_localization/msg/scan_matching_status.hpp

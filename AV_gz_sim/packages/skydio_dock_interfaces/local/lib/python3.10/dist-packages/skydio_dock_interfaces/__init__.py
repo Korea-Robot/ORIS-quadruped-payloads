@@ -1,0 +1,1 @@
+/root/ghost_ws/build/skydio_dock_interfaces/rosidl_generator_py/skydio_dock_interfaces/__init__.py

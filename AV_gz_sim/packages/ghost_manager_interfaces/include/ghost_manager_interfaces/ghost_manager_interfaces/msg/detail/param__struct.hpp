@@ -1,0 +1,1 @@
+/root/ghost_ws/build/ghost_manager_interfaces/rosidl_generator_cpp/ghost_manager_interfaces/msg/detail/param__struct.hpp

@@ -1,0 +1,1 @@
+/root/ghost_ws/build/wibotic_msg/rosidl_generator_py/wibotic_msg/srv/_read_parameter.py

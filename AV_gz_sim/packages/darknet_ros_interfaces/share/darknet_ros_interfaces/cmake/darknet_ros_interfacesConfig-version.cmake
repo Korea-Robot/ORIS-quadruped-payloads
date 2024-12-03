@@ -1,0 +1,1 @@
+/root/ghost_ws/build/darknet_ros_interfaces/ament_cmake_core/darknet_ros_interfacesConfig-version.cmake

@@ -1,0 +1,1 @@
+/root/ghost_ws/build/robot_control_msgs/rosidl_generator_cpp/robot_control_msgs/msg/gr_planner_goal.hpp

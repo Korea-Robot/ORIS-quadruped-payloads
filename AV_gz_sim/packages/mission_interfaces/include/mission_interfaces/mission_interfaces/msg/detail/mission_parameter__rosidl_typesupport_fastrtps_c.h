@@ -1,0 +1,1 @@
+/root/ghost_ws/build/mission_interfaces/rosidl_typesupport_fastrtps_c/mission_interfaces/msg/detail/mission_parameter__rosidl_typesupport_fastrtps_c.h

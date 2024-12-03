@@ -1,0 +1,1 @@
+/root/ghost_ws/build/nav2_msgs/rosidl_typesupport_introspection_c/nav2_msgs/msg/detail/costmap__rosidl_typesupport_introspection_c.h

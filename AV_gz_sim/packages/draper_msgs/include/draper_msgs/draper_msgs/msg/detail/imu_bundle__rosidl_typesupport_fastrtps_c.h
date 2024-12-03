@@ -1,0 +1,1 @@
+/root/ghost_ws/build/draper_msgs/rosidl_typesupport_fastrtps_c/draper_msgs/msg/detail/imu_bundle__rosidl_typesupport_fastrtps_c.h

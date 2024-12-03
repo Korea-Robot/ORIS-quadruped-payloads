@@ -1,0 +1,1 @@
+/root/ghost_ws/build/robot_control_msgs/rosidl_generator_c/robot_control_msgs/msg/detail/docking_state__type_support.h

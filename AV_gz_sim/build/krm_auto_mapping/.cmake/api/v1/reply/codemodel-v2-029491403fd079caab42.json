@@ -1,0 +1,97 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-12b09662339aa4ebbe5f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "krm_auto_mapping",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "global_pcd_repub_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-global_pcd_repub_node-d8515cb331d91c1b35a1.json",
+					"name" : "global_pcd_repub_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "krm_auto_mapping_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-krm_auto_mapping_uninstall-f79bfedcd07be883f172.json",
+					"name" : "krm_auto_mapping_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pcd_to_grid_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pcd_to_grid_node-974f063d4bbc1d274df6.json",
+					"name" : "pcd_to_grid_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pcd_writer_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pcd_writer_node-574f633b4a6673eb942f.json",
+					"name" : "pcd_writer_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-5d807288bd012add729e.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/root/ghost_ws/build/krm_auto_mapping",
+		"source" : "/root/ghost_ws/src/krm_auto/krm_auto_mapping"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,1 @@
+/root/ghost_ws/build/ghost_slam_msgs/ament_cmake_core/ghost_slam_msgsConfig-version.cmake

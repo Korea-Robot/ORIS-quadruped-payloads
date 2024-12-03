@@ -1,0 +1,1 @@
+/root/ghost_ws/src/ghost_custom_msgs/ros2_mscl_interfaces/msg/MSCLStatus.msg

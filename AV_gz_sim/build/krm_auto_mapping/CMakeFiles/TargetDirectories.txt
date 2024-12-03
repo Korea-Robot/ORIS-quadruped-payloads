@@ -1,0 +1,12 @@
+/root/ghost_ws/build/krm_auto_mapping/CMakeFiles/uninstall.dir
+/root/ghost_ws/build/krm_auto_mapping/CMakeFiles/krm_auto_mapping_uninstall.dir
+/root/ghost_ws/build/krm_auto_mapping/CMakeFiles/pcd_writer_node.dir
+/root/ghost_ws/build/krm_auto_mapping/CMakeFiles/pcd_to_grid_node.dir
+/root/ghost_ws/build/krm_auto_mapping/CMakeFiles/global_pcd_repub_node.dir
+/root/ghost_ws/build/krm_auto_mapping/CMakeFiles/test.dir
+/root/ghost_ws/build/krm_auto_mapping/CMakeFiles/edit_cache.dir
+/root/ghost_ws/build/krm_auto_mapping/CMakeFiles/rebuild_cache.dir
+/root/ghost_ws/build/krm_auto_mapping/CMakeFiles/list_install_components.dir
+/root/ghost_ws/build/krm_auto_mapping/CMakeFiles/install.dir
+/root/ghost_ws/build/krm_auto_mapping/CMakeFiles/install/local.dir
+/root/ghost_ws/build/krm_auto_mapping/CMakeFiles/install/strip.dir

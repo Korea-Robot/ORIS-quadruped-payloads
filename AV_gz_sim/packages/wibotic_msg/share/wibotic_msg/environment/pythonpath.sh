@@ -1,0 +1,1 @@
+/root/ghost_ws/build/wibotic_msg/ament_cmake_environment_hooks/pythonpath.sh

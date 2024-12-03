@@ -1,0 +1,1 @@
+/root/ghost_ws/build/krm_interfaces/rosidl_cmake/srv/Map_Request.msg

@@ -1,0 +1,1 @@
+/root/ghost_ws/src/krm_auto/3rdparty/krm_nav2/nav2_regulated_pure_pursuit_controller/include/nav2_regulated_pure_pursuit_controller/regulated_pure_pursuit_controller.hpp

@@ -1,0 +1,1 @@
+/root/ghost_ws/build/mission_interfaces/rosidl_typesupport_introspection_c/mission_interfaces/srv/detail/register_task_plugin__rosidl_typesupport_introspection_c.h

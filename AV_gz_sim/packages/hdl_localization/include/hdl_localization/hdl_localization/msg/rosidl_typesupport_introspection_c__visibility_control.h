@@ -1,0 +1,1 @@
+/root/ghost_ws/build/hdl_localization/rosidl_typesupport_introspection_c/hdl_localization/msg/rosidl_typesupport_introspection_c__visibility_control.h

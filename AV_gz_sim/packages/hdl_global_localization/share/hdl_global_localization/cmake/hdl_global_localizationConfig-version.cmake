@@ -1,0 +1,1 @@
+/root/ghost_ws/build/hdl_global_localization/ament_cmake_core/hdl_global_localizationConfig-version.cmake

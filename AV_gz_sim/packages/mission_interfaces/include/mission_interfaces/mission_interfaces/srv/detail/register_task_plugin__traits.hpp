@@ -1,0 +1,1 @@
+/root/ghost_ws/build/mission_interfaces/rosidl_generator_cpp/mission_interfaces/srv/detail/register_task_plugin__traits.hpp

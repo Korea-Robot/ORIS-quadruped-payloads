@@ -1,0 +1,1 @@
+/root/ghost_ws/build/ghost_manager_interfaces/rosidl_typesupport_fastrtps_cpp/ghost_manager_interfaces/srv/detail/ensure_mode__rosidl_typesupport_fastrtps_cpp.hpp

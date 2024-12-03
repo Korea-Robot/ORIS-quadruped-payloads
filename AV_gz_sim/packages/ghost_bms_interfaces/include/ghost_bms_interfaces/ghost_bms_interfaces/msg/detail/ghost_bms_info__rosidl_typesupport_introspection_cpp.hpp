@@ -1,0 +1,1 @@
+/root/ghost_ws/build/ghost_bms_interfaces/rosidl_typesupport_introspection_cpp/ghost_bms_interfaces/msg/detail/ghost_bms_info__rosidl_typesupport_introspection_cpp.hpp

@@ -1,0 +1,1 @@
+/root/ghost_ws/build/skydio_dock_interfaces/rosidl_generator_c/skydio_dock_interfaces/msg/rosidl_generator_c__visibility_control.h

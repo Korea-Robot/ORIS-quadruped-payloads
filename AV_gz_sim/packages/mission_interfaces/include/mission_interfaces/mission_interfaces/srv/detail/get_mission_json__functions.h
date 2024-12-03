@@ -1,0 +1,1 @@
+/root/ghost_ws/build/mission_interfaces/rosidl_generator_c/mission_interfaces/srv/detail/get_mission_json__functions.h

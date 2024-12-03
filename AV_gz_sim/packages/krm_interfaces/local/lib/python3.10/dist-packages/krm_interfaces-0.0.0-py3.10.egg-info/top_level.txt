@@ -1,0 +1,1 @@
+/root/ghost_ws/build/krm_interfaces/ament_cmake_python/krm_interfaces/krm_interfaces.egg-info/top_level.txt

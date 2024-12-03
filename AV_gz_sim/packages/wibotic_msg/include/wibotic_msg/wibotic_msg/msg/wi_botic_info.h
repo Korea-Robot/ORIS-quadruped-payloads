@@ -1,0 +1,1 @@
+/root/ghost_ws/build/wibotic_msg/rosidl_generator_c/wibotic_msg/msg/wi_botic_info.h

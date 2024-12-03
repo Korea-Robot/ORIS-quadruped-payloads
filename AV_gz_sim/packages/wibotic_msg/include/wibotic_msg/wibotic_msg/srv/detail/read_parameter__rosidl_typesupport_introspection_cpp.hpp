@@ -1,0 +1,1 @@
+/root/ghost_ws/build/wibotic_msg/rosidl_typesupport_introspection_cpp/wibotic_msg/srv/detail/read_parameter__rosidl_typesupport_introspection_cpp.hpp

@@ -1,0 +1,1 @@
+/root/ghost_ws/build/robot_control_msgs/ament_cmake_python/robot_control_msgs/robot_control_msgs.egg-info/SOURCES.txt

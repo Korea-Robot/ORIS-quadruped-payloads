@@ -1,0 +1,1 @@
+/root/ghost_ws/build/draper_msgs/rosidl_generator_cpp/draper_msgs/msg/detail/state_and_correction__traits.hpp

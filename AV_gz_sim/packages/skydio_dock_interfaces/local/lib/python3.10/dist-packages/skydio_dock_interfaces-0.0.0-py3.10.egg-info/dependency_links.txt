@@ -1,0 +1,1 @@
+/root/ghost_ws/build/skydio_dock_interfaces/ament_cmake_python/skydio_dock_interfaces/skydio_dock_interfaces.egg-info/dependency_links.txt

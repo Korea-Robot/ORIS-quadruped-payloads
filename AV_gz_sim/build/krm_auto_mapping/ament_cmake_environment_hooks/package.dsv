@@ -1,0 +1,4 @@
+source;share/krm_auto_mapping/local_setup.bash
+source;share/krm_auto_mapping/local_setup.dsv
+source;share/krm_auto_mapping/local_setup.sh
+source;share/krm_auto_mapping/local_setup.zsh

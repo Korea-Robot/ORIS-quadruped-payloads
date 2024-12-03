@@ -1,0 +1,1 @@
+/root/ghost_ws/build/cbrne_interfaces/rosidl_generator_py/cbrne_interfaces/_cbrne_interfaces_s.ep.rosidl_typesupport_introspection_c.c

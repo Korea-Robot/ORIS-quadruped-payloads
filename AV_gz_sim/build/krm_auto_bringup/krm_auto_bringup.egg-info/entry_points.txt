@@ -1,0 +1,4 @@
+[console_scripts]
+cmd_vel_republisher = krm_auto_bringup.cmd_vel_republisher:main
+heartbeat_publisher = krm_auto_bringup.heartbeat_publisher:main
+

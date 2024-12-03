@@ -1,0 +1,1 @@
+/root/ghost_ws/build/ghost_slam_msgs/rosidl_generator_py/ghost_slam_msgs/__init__.py

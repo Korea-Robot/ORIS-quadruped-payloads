@@ -1,0 +1,1 @@
+/root/ghost_ws/build/darknet_ros_interfaces/rosidl_generator_py/darknet_ros_interfaces/msg/__init__.py

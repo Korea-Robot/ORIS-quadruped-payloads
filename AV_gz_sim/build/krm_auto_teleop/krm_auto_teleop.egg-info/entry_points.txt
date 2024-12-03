@@ -1,0 +1,3 @@
+[console_scripts]
+krm_auto_teleop = krm_auto_teleop.krm_auto_teleop:main
+

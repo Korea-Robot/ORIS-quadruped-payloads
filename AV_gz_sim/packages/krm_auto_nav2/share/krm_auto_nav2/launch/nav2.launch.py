@@ -1,0 +1,1 @@
+/root/ghost_ws/src/krm_auto/krm_auto_nav2/launch/nav2.launch.py

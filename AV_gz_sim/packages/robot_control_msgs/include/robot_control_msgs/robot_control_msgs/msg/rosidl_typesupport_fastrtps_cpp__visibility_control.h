@@ -1,0 +1,1 @@
+/root/ghost_ws/build/robot_control_msgs/rosidl_typesupport_fastrtps_cpp/robot_control_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h

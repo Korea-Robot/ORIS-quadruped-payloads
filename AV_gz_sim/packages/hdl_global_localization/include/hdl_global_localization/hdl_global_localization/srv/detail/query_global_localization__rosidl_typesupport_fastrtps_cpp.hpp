@@ -1,0 +1,1 @@
+/root/ghost_ws/build/hdl_global_localization/rosidl_typesupport_fastrtps_cpp/hdl_global_localization/srv/detail/query_global_localization__rosidl_typesupport_fastrtps_cpp.hpp

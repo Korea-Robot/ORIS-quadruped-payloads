@@ -1,0 +1,1 @@
+/root/ghost_ws/build/krm_exploration_interfaces/rosidl_generator_py/krm_exploration_interfaces/_krm_exploration_interfaces_s.ep.rosidl_typesupport_introspection_c.c

@@ -1,0 +1,1 @@
+/root/ghost_ws/build/wibotic_msg/ament_cmake_core/wibotic_msgConfig-version.cmake

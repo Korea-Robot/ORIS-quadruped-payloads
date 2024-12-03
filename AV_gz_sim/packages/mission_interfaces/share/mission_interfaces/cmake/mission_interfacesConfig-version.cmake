@@ -1,0 +1,1 @@
+/root/ghost_ws/build/mission_interfaces/ament_cmake_core/mission_interfacesConfig-version.cmake

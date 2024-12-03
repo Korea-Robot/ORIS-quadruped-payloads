@@ -1,0 +1,1 @@
+/root/ghost_ws/build/robot_control_msgs/rosidl_generator_c/robot_control_msgs/msg/gps_path.h

@@ -1,0 +1,1 @@
+/root/ghost_ws/build/krm_auto_description/ament_cmake_core/krm_auto_descriptionConfig.cmake

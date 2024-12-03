@@ -1,0 +1,1 @@
+/root/ghost_ws/build/mission_interfaces/rosidl_typesupport_fastrtps_cpp/mission_interfaces/srv/detail/delete_mission__rosidl_typesupport_fastrtps_cpp.hpp

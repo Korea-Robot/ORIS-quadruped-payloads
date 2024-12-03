@@ -1,0 +1,1 @@
+/root/ghost_ws/build/skydio_dock_interfaces/ament_cmake_core/skydio_dock_interfacesConfig-version.cmake

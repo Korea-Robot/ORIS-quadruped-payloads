@@ -1,0 +1,1 @@
+/root/ghost_ws/build/skydio_dock_interfaces/rosidl_generator_py/skydio_dock_interfaces/_skydio_dock_interfaces_s.ep.rosidl_typesupport_introspection_c.c

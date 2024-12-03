@@ -1,0 +1,1 @@
+/root/ghost_ws/build/krm_exploration_interfaces/rosidl_generator_c/krm_exploration_interfaces/msg/rosidl_generator_c__visibility_control.h

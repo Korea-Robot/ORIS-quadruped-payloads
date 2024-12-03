@@ -1,0 +1,1 @@
+/root/ghost_ws/build/darknet_ros_interfaces/rosidl_generator_py/darknet_ros_interfaces/_darknet_ros_interfaces_s.ep.rosidl_typesupport_c.c

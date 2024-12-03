@@ -1,0 +1,1 @@
+/root/ghost_ws/build/hdl_localization/rosidl_generator_py/hdl_localization/msg/_scan_matching_status.py

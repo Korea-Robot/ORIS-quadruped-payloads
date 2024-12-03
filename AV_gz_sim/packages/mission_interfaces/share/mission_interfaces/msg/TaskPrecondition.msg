@@ -1,0 +1,1 @@
+/root/ghost_ws/src/ghost_custom_msgs/mission_interfaces/msg/TaskPrecondition.msg

@@ -1,0 +1,1 @@
+/root/ghost_ws/build/ros2_mscl_interfaces/rosidl_cmake/srv/SetSensorToVehicleTranslation_Response.msg

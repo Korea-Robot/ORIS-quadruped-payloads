@@ -1,0 +1,1 @@
+/root/ghost_ws/build/skydio_dock_interfaces/rosidl_typesupport_introspection_cpp/skydio_dock_interfaces/msg/detail/skydio_dock_telemetry__rosidl_typesupport_introspection_cpp.hpp

@@ -1,0 +1,18 @@
+session_name: nav2_gazebo_launch
+
+environment:
+  MISSION_NAME: ghost_wp
+options:
+  default-command: /bin/bash
+
+windows:
+- window_name: dev window 
+  focus: true
+  layout: tiled
+  shell_command_before: 
+    - export DATE=$(date "+%Y-%m-%d_%H-%M-%S")
+  panes:
+    - shell_command: # 1. ouster tf -> republish 25 30
+      - sleep 5; ros2 launch krm_auto_nav2 nav2_gazebo.launch.py 
+    - shell_command: # 2. blio
+      - sleep 7; ros2 launch krm_auto_localization hdl_localization_gazebo.launch.py 
