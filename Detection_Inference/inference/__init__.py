@@ -1,0 +1,1 @@
+from .inference_detection_model import inference_detection_model
