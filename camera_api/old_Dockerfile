@@ -1,0 +1,52 @@
+# 1. 기본 이미지 설정
+# Python 3.10 slim 버전을 기반으로 이미지를 생성합니다.
+FROM python:3.11-slim
+
+# 2. 작업 디렉토리 설정
+# 컨테이너 내에서 명령어가 실행될 기본 경로를 /app으로 설정합니다.
+WORKDIR /workspace
+
+# 3. 시스템 패키지 설치
+# git (저장소 클론용)과 curl, 그리고 pygobject 빌드에 필요한 의존성을 설치합니다.
+# apt-get 캐시는 용량을 줄이기 위해 정리합니다.
+RUN apt-get update && apt-get install -y \
+    git \
+    curl \
+    pkg-config \
+    libcairo2-dev \
+    libgirepository1.0-dev \ 
+    gobject-introspection \    
+    python3-dev \
+    build-essential \
+    && rm -rf /var/lib/apt/lists/*
+
+#libgirepository1.0-dev: GObject Introspection 개발 헤더
+# gobject-introspection: GObject Introspection 런타임 툴
+# python3-dev: Python C 확장 빌드를 위한 헤더
+
+
+# 4. Gremsy Payload SDK 클론 및 의존성 설치
+# 요청하신特定 브랜치의 SDK를 /app/PayloadSdk 디렉토리에 클론합니다.
+RUN git clone -b payloadsdk_v3_python3 https://github.com/Gremsy/PayloadSdk.git ./PayloadSdk
+# SDK의 requirements.txt를 사용하여 의존성을 설치합니다.
+RUN pip install --no-cache-dir -r PayloadSdk/requirements.txt
+
+# 5. 사용자 애플리케이션 의존성 설치
+# 호스트의 requirements.txt 파일을 컨테이너의 /app 디렉토리로 복사합니다.
+COPY requirements.txt .
+# 복사된 requirements.txt를 사용하여 애플리케이션의 의존성을 설치합니다.
+RUN pip install --no-cache-dir -r requirements.txt
+
+# 6. 애플리케이션 코드 복사
+# 호스트의 현재 디렉토리에 있는 모든 파일을 컨테이너의 /app 디렉토리로 복사합니다.
+COPY . .
+
+# 7. 환경변수 설정
+ENV API_PORT=6783
+ENV PORT=6783
+
+# 8. 컨테이너 실행 명령어
+# 컨테이너가 시작될 때 실행할 기본 명령어입니다.
+# 현재는 주석 처리되어 있으며, 필요에 따라 주석을 해제하여 사용하세요.
+# CMD ["python", "-m", "app.app"]
+CMD ["sh", "-c", "cd app && python app.py"]

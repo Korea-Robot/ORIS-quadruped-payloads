@@ -1,0 +1,17 @@
+# PayloadSDK PyMavLink requirements
+# Usage: pip3 install -r requirements.txt
+
+# Base ------------------------------------------------------------------------
+numpy
+pyserial
+mavproxy
+requests
+pymavlink
+flask 
+
+# pygobject compatibility
+pygobject; python_version < "3.9"
+pygobject==3.50.0; python_version >= "3.9"
+
+#mqtt 
+paho-mqtt
